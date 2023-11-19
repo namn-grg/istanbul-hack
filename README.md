@@ -1,7 +1,15 @@
-Short Description:
+# Short Description:
 Cult3 is a revolutionary blockchain-based fantasy sports platform on the Open Web, offering users the thrill of assembling virtual teams from real athletes across various sports. With a market size of $18.6 billion and projected growth to $48.6 billion by 2027, Cult3 leverages blockchain for decentralization, transparency, and fair play. Win rewards in the form of NFTs as you dive into the $3.7 billion Fantasy Sports sector in India growing at a CAGR of 32%.
 
-Description:
+
+# Deployed Contracts
+Cult3.sol - [0x2e29b044DCeF53796A9f3437C4FA05036761F669](https://thirdweb.com/scroll-sepolia-testnet/0x2e29b044DCeF53796A9f3437C4FA05036761F669)
+
+CultRewards.sol - [0xc427B1BBa2564312F6082b514AF62020acEf9CC8](https://thirdweb.com/scroll-sepolia-testnet/0xc427B1BBa2564312F6082b514AF62020acEf9CC8)
+
+Datastore.sol - [0x56787904086EC3311FeEefd02B9D15E28212CE78](https://thirdweb.com/scroll-sepolia-testnet/0x56787904086EC3311FeEefd02B9D15E28212CE78)
+
+# Description:
 Cult3 introduces a cutting-edge blockchain solution to fantasy sports, providing an all-encompassing platform for enthusiasts on the Open Web. Users engage in fantasy gaming cults across multiple sports, earning rewards based on the statistical performance of their chosen athletes. Admins can distribute winnings as NFTs, enhancing the overall gaming experience.
 
 The project taps into the booming fantasy sports market, currently valued at $18.6 billion and expected to surge to $48.6 billion by 2027. In India, where the Fantasy Sports sector grows at a remarkable CAGR of 32%, Cult3 anticipates reaching $3.7 billion by 2024.
@@ -18,3 +26,7 @@ Cult3 leverages Non-Fungible Tokens (NFTs) as a form of reward. Admins can seaml
 Partnering with reputable blockchain networks ensures scalability and robustness. The utilization of off-chain storage solutions further optimizes performance, ensuring a seamless user experience.
 
 In addressing potential challenges, Cult3's development team prioritized user education on blockchain technology, ensuring a user-friendly experience. The result is a groundbreaking fantasy sports platform, set to revolutionize the industry with transparency, decentralization, and NFT-based rewards.
+
+# Learnings
+
+The time was a big constraint. I tried to write the smart contracts by myself for the first time and it was a good learning experiance.
